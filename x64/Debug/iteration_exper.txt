@@ -1,0 +1,8 @@
+(Threads=0): Rank=100 Number of iteratons=500 Time=0.0234352
+(Threads=0): Rank=100 Number of iteratons=1000 Time=0.0484568
+(Threads=0): Rank=100 Number of iteratons=2000 Time=0.0907225
+(Threads=0): Rank=100 Number of iteratons=4000 Time=0.184101
+(Threads=0): Rank=100 Number of iteratons=6000 Time=0.354138
+(Threads=0): Rank=100 Number of iteratons=8000 Time=0.364048
+(Threads=0): Rank=100 Number of iteratons=10000 Time=0.508315
+(Threads=0): Rank=100 Number of iteratons=12000 Time=0.564342
